@@ -29,7 +29,7 @@
 
 import './index.css';
 
-console.log(WebSocket)
-const s = new WebSocketServer()
+console.log(WebSocketServer)
+const s = new WebSocketServer({port: 8000})
 
 console.log('👋 This message is being logged by "renderer.js", included via Vite');
