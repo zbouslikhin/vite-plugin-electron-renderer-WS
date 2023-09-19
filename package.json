@@ -23,7 +23,7 @@
     "@electron-forge/plugin-auto-unpack-natives": "^6.4.1",
     "@electron-forge/plugin-vite": "^6.4.1",
     "electron": "26.1.0",
-    "vite-plugin-electron-renderer": "^0.14.5"
+    "vite-plugin-electron-renderer": "^0.14.5",
   },
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",

@@ -25,7 +25,7 @@
  *  });
  * ```
  */
- import WebSocket, { WebSocketServer } from 'ws';
+import WebSocket, { WebSocketServer } from 'ws';
 
 import './index.css';
 
